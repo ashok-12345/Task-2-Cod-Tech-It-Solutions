@@ -1,5 +1,5 @@
-Name: shaik khasim shareef
-ID: CT12DS2112
+Name: Sanduri Ashok Kumar
+ID: CT12DS2126
 Domain:vlsi
 Duration: AUGUST 5th to OCTOBER 5th 2024
 
